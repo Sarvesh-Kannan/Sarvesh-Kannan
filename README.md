@@ -8,7 +8,7 @@
 
 ## ✨ About Me
 
-I’m a passionate AI engineer building data-driven and AI-powered solutions for real-world impact. From intelligent wildlife safety systems to medical assistants and groundwater prediction for urban sustainability—I'm always pushing boundaries with cutting-edge technologies like LLMs, computer vision, and time-series forecasting.
+I’m a passionate AI engineer building data-driven and AI-powered solutions for real-world impact. From intelligent wildlife safety systems to medical assistants and groundwater prediction for urban sustainability—I'm always pushing boundaries with cutting-edge technologies like LLMs, computer vision, and time-series forecasting. I Vibe Code ;)
 
 🔧 **Technologies I Work With:**
 - Python, PyTorch, TensorFlow, OpenCV
