@@ -16,9 +16,7 @@
 ---
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 <a align="right" target="_blank">
   <img align="right" height="300" width="400" alt="AI Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
