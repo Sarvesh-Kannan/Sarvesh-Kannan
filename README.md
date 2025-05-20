@@ -12,60 +12,93 @@
 
 ---
 
-### 🌟 About Me
-
-Hey there! I'm **Sarvesh Kannan**, a passionate **AI/ML developer** based in **Chennai, India**. I'm currently pursuing **B.Tech in AI** from *Amrita Vishwa Vidyapeetham* and pushing boundaries in everything from **Wildlife Safety** to **Groundwater Sustainability**, **Baby Cry Emotion Classification**, and **Agentic AI Systems**.
-
-🚀 I love building:
-- Wildlife Species Classification & Safety Protocol Systems
-- Temporal Fusion Transformer-based Groundwater Prediction Models 🌊
-- Baby Cry Emotion Classifiers using MFCC and Deep Learning 👶🎧
-- Real-Time Binance Trading Analytics with Sharpe, ROI & MDD 📈
-- Agentic Project Manager Systems using RAG + Gemini API 🧠🗂️
-
-💡 **Curiosity meets Code**: I'm constantly learning & deploying real-world AI.
+Sure! Here's a combined and enhanced version of your GitHub profile README that merges the clean, modern aesthetic from the earlier version with the personality and structure of Saurabh's version. It highlights your interests in AI and software development, avoids over-listing projects, and keeps the focus on your domains and aspirations:
 
 ---
 
-### 🧠 Tech Stack & Tools
+<h1 align="center">Hi 👋, I'm Sarvesh Kannan</h1>
+<h3 align="center">AI Engineer | Builder | Researcher | Tech Optimist</h3>
 
-```bash
-Languages: Python, SQL, Bash
-Frameworks: PyTorch, TensorFlow, Scikit-learn, OpenCV, Librosa
-LLMs & NLP: HuggingFace, DeepSeek, Gemini, NLTK, spaCy
-Web & APIs: FastAPI, Flask, Streamlit, Supabase, Docker
-Data: Power BI, Pandas, NumPy, Time Series
-```  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<a align="right" target="_blank">
+  <img align="right" height="300" width="400" alt="AI Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
+
+* 🎓 B.Tech in AI at Amrita Vishwa Vidyapeetham
+* 🌐 I love building in **AI, Data Science, and Full Stack Dev**
+* 🤖 Currently working on AI-powered tools, intelligent assistants, and predictive systems
+* 🧠 I explore: LLMs, Computer Vision, Time Series Forecasting, XAI, RAG Systems
+* 💬 Ask me about anything in **AI/ML, Python, or AI SaaS development**
+* 📫 Reach me: **[sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)**
+* 📄 My Resume: [View here](https://drive.google.com/file/d/1oeKJKtG4GpxVaG-GpALScZ-vhvM6-Qwh/view?usp=sharing)
 
 ---
 
-### 📌 Featured Projects
+### 💡 What I Like to Build
 
-- 🎯 **[Wildlife Safety System](https://github.com/sarvesh-kannan/Wildlife-Safety-System)** – EfficientNet-B3-based animal classification + GradCAM + SHAP + safety actions.
-- 💧 **[Groundwater Predictor](https://github.com/sarvesh-kannan/Groundwater-Level-Prediction)** – Forecast Chennai groundwater using TFT with rainfall, seawater intrusion, and pH.
-- 👶 **[CryBabyNet](https://github.com/sarvesh-kannan/Baby-Cry-Classifier)** – Classify baby cries with CNNs using MFCCs.
-- 📊 **[Binance Trade Analytics](https://github.com/sarvesh-kannan/Binance-Trade-Analysis)** – Automated trade metrics (PnL, ROI, Win Rate) and rankings.
-- 🤖 **[Agentic Project Manager](https://github.com/sarvesh-kannan/Agentic-PM)** – AI assistant with RAG + planning/scheduling + Gemini.
+I love creating things that blend intelligence with usability. You’ll find me exploring domains like:
+
+* 🧠 **Artificial Intelligence** – LLMs, Transformers, Speech AI, Reinforcement Learning
+* 🌍 **Sustainability & Environment** – AI for Water Conservation, Wildlife Safety
+* 💊 **Healthcare Tech** – Medical Assistants, Cry Detection Systems
+* 📊 **Data Products** – Dashboards, Predictive Analytics, Business Intelligence
+* 🛠 **DevTools & Utilities** – Productivity APIs, Local AI Assistants, Python Packages
 
 ---
+
+### 🧰 Tech Stack
+
+**Languages:** Python, JavaScript
+**Frameworks:** PyTorch, TensorFlow, FastAPI, Flask, Streamlit, Vite.js
+**Libraries:** OpenCV, HuggingFace, Scikit-learn, LangChain, Pinecone, Pandas
+**Tools:** Git, Docker, Supabase, VS Code, Power BI, Ollama
+**Databases:** PostgreSQL, MySQL, SQLite
+
+---
+
+### 📬 Connect with Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-kannan&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="Sarvesh's GitHub stats">
+  <a href="https://www.linkedin.com/in/sarvesh-kannan/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <a href="https://github.com/sarvesh-kannan" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  <a href="mailto:sarveshkannan30@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/apple-mail.png"></a>
+  <a href="https://twitter.com/Sarvesh__K" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png"></a>
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### ✍️ Blogs & Articles
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-kannan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sarvesh-kannan"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="mailto:sarveshkannan30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+
+* [How I Built an LLM-Powered Code Assistant That Runs Locally](https://dev.to/sarveshkannan/coming-soon)
+* [AI-Powered Fitness Plans in Python (with Gemini API)](https://dev.to/sarveshkannan/coming-soon)
+* [Time-Series Forecasting for Groundwater Management](https://dev.to/sarveshkannan/coming-soon)
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <i>Thanks for stopping by! Let’s build something impactful together 💡</i><br>
-  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-kannan&show_icons=true&theme=radical&hide=issues&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-kannan&theme=radical" width="48%">
+</div>
+
+---
+
+### 🧠 Fun Fact
+
+> "I’m a builder at heart. Whether it’s a smart assistant or a tool for sustainability, I believe AI should be **useful**, **ethical**, and **human-centric**."
+
+---
+
+*Last updated: May 20, 2025*
+
+Would you like this saved as a `README.md` file too?
+
 </div>
