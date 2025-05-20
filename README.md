@@ -2,9 +2,10 @@
 
 <h2> 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 <𝚂𝚊𝚛𝚟𝚎𝚜𝚑 𝙺𝚊𝚗𝚗𝚊𝚗 /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+Researcher+%7C+Agentic+Systems+Dev;Building+AI+for+Good+%F0%9F%8C%8D" alt="Typing SVG" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW45dm1sMHIwMzU5Y2ttZjM1M2Rna3A1YTUyOGFyZDRwb2dxcDBlaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EF7kGJ3O8P1So9gbpI/giphy.gif" alt="AI Banner" width="700"/>
 </p>
+
 
 <img src="https://i.imgur.com/SGNqJyt.gif" width="300" alt="AI Magic"/>
 
