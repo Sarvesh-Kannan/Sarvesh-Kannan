@@ -11,13 +11,8 @@
 </div>
 
 ---
-
-Sure! Here's a combined and enhanced version of your GitHub profile README that merges the clean, modern aesthetic from the earlier version with the personality and structure of Saurabh's version. It highlights your interests in AI and software development, avoids over-listing projects, and keeps the focus on your domains and aspirations:
-
 ---
 
-<h1 align="center">Hi 👋, I'm Sarvesh Kannan</h1>
-<h3 align="center">AI Engineer | Builder | Researcher | Tech Optimist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
