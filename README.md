@@ -142,9 +142,9 @@ I love creating things that blend intelligence with usability. You’ll find me 
     </a>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/SkillMap-AI" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/SkillMap-AI](https://github.com/Sarvesh-Kannan/Sarvesh_Dashboard)" target="_blank">
       <img src="https://media.giphy.com/media/kcK6j2IryyLxNmGJdN/giphy.gif" width="150" height="100"/><br/>
-      <strong>SkillMap AI</strong><br/>
+      <strong>Dynamic Strategic HR Analytics Dashboard</strong><br/>
       <sub>Strategic HR Analytics Dashboard with a Personalised Chat-Bot built using PowerBI and Python</sub>
     </a>
   </td>
