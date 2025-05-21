@@ -55,37 +55,6 @@ I love creating things that blend intelligence with usability. You’ll find me 
 
 ---
 
-### 📬 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-kannan/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <a href="https://github.com/sarvesh-kannan" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <a href="mailto:sarveshkannan30@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/apple-mail.png"></a>
-  <a href="https://twitter.com/Sarvesh__K" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png"></a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-kannan&show_icons=true&theme=radical&hide=issues&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-kannan&theme=radical" width="48%">
-</div>
-
----
-
-### 🧠 Fun Fact
-
-> "I’m a builder at heart. Whether it’s a smart assistant or a tool for sustainability, I believe AI should be **useful**, **ethical**, and **human-centric**."
-
----
-
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <div align="center">
@@ -127,6 +96,36 @@ I love creating things that blend intelligence with usability. You’ll find me 
 
 
 </div>
+
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sarvesh-kannan/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <a href="https://github.com/sarvesh-kannan" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+  <a href="mailto:sarveshkannan30@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/apple-mail.png"></a>
+  <a href="https://twitter.com/Sarvesh__K" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png"></a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-kannan&show_icons=true&theme=radical&hide=issues&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh-kannan&theme=radical" width="48%">
+</div>
+
+---
+
+### 🧠 Fun Fact
+
+> "I’m a builder at heart. Whether it’s a smart assistant or a tool for sustainability, I believe AI should be **useful**, **ethical**, and **human-centric**."
+
+---
+
+
+</div>
+
 
 ---
 
