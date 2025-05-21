@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm &lt; Sarvesh Kannan /&gt;
 
-<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/91e5ced6-e6c5-4f96-99a1-cf6fed503bdf.png" alt="Sarvesh AI" width="500"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving GIF" width="60"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=blue)
 
@@ -15,7 +15,6 @@
 🌍 Focus Areas: LLMs, Time Series, Vision, RAG, XAI, NLP, RL, Agentic AI  
 💬 Ask me about: **AI/ML, Python, AI SaaS**  
 📧 Email: [sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)  
-📄 Resume: [View here](https://your-resume-link.com)
 
 ---
 
