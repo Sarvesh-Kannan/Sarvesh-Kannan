@@ -1,32 +1,26 @@
 <div align="center">
 
-<h2>👋 Hey there, I'm < Sarvesh Kannan /> 👋</h2>
+# 👋 Hey there, I'm &lt; Sarvesh Kannan /&gt;
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
+<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/91e5ced6-e6c5-4f96-99a1-cf6fed503bdf.png" alt="Sarvesh AI" width="500"/>
 
-<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/hero.gif" width="300" alt="AI Magic" />
-
-<!-- Local fallback image you uploaded -->
-<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/3911f8eb-8bf0-4775-a20b-e53a5e5e5ec3.png" width="500" alt="AI Developer Image" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=blue)
 
 ---
 
-<div align="left">
-
 ### 💡 About Me
 
-- 🎓 B.Tech in AI @ **Amrita Vishwa Vidyapeetham**
-- 🧠 Building: **AI Tools, Intelligent Agents, Predictive Systems**
-- 🌐 Focus Areas: LLMs, Time Series, Vision, RAG, XAI, NLP, RL, Agentic AI
-- 💬 Ask me about: **AI/ML, Python, AI SaaS**
-- 📫 Email: [sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)
-- 📄 Resume: [View here](https://your-resume-link.com)
+🎓 B.Tech in AI @ **Amrita Vishwa Vidyapeetham**  
+🛠️ Building: **AI Tools, Intelligent Agents, Predictive Systems**  
+🌍 Focus Areas: LLMs, Time Series, Vision, RAG, XAI, NLP, RL, Agentic AI  
+💬 Ask me about: **AI/ML, Python, AI SaaS**  
+📧 Email: [sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)  
+📄 Resume: [View here](https://your-resume-link.com)
+
+---
+
+</div>
+
 
 
 ### 💡 What I Like to Build
