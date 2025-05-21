@@ -130,14 +130,14 @@ I love creating things that blend intelligence with usability. You’ll find me 
   <td align="center" width="33%">
     <a href="[https://github.com/sarvesh-kannan/Gemini-Gym-AI](https://github.com/Sarvesh-Kannan/personal-trainer-ai)" target="_blank">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="100"/><br/>
-      <strong>Gym AI</strong><br/>
+      <strong>Personal Trainer AI</strong><br/>
       <sub>Workout + Diet plan generator using Gemini API</sub>
     </a>
   </td>
   <td align="center" width="33%">
     <a href="[https://github.com/sarvesh-kannan/HMM-BIO-NER](https://github.com/Sarvesh-Kannan/Co-Clone)" target="_blank">
       <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="150" height="100"/><br/>
-      <strong>HMM BIO Tagger</strong><br/>
+      <strong>Co-Clone</strong><br/>
       <sub>Local LLM-powered Co-Clone for real-time code assists</sub>
     </a>
   </td>
