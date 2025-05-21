@@ -105,21 +105,21 @@ I love creating things that blend intelligence with usability. You’ll find me 
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/Groundwater-TFT" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/Groundwater-TFT](https://github.com/Sarvesh-Kannan/PyUtilKit)" target="_blank">
       <img src="https://media.giphy.com/media/8JW82ndaYfmNoYAekM/giphy.gif" width="150" height="100"/><br/>
-      <strong>Groundwater Forecasting</strong><br/>
-      <sub>AI for sustainable water resource planning</sub>
+      <strong>Python Package</strong><br/>
+      <sub>A Python package available for everyone to use</sub>
     </a>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/Wildlife-Safety-System" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/Wildlife-Safety-System](https://github.com/Sarvesh-Kannan/Cam-Trap)" target="_blank">
       <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="150" height="100"/><br/>
       <strong>Wildlife Safety System</strong><br/>
       <sub>Animal detection + XAI + safety protocol generation</sub>
     </a>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/LLM-Agent-RAG" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/LLM-Agent-RAG](https://github.com/Sarvesh-Kannan/SarvX)" target="_blank">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="100"/><br/>
       <strong>LLM Agent + RAG</strong><br/>
       <sub>Retrieval-augmented agent with local LLMs</sub>
@@ -128,24 +128,24 @@ I love creating things that blend intelligence with usability. You’ll find me 
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/Gemini-Gym-AI" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/Gemini-Gym-AI](https://github.com/Sarvesh-Kannan/personal-trainer-ai)" target="_blank">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="100"/><br/>
       <strong>Gym AI</strong><br/>
       <sub>Workout + Diet plan generator using Gemini API</sub>
     </a>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/sarvesh-kannan/HMM-BIO-NER" target="_blank">
+    <a href="[https://github.com/sarvesh-kannan/HMM-BIO-NER](https://github.com/Sarvesh-Kannan/Co-Clone)" target="_blank">
       <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="150" height="100"/><br/>
       <strong>HMM BIO Tagger</strong><br/>
-      <sub>Token-level medical NER system from scratch</sub>
+      <sub>Local LLM-powered Co-Clone for real-time code assists</sub>
     </a>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/sarvesh-kannan/SkillMap-AI" target="_blank">
       <img src="https://media.giphy.com/media/kcK6j2IryyLxNmGJdN/giphy.gif" width="150" height="100"/><br/>
       <strong>SkillMap AI</strong><br/>
-      <sub>Personalized career roadmap generator</sub>
+      <sub>Strategic HR Analytics Dashboard with a Personalised Chat-Bot built using PowerBI and Python</sub>
     </a>
   </td>
 </tr>
