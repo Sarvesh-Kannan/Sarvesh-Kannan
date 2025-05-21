@@ -1,10 +1,13 @@
 <div align="center">
 
-<h2>👋 Hey there, I'm <𝚂𝚊𝚛𝚟𝚎𝚜𝚑 𝙺𝚊𝚗𝚗𝚊𝚗 /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>👋 Hey there, I'm < Sarvesh Kannan /> 👋</h2>
 
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="AI Chip Animation" width="700"/>
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px">
 
-<img src="https://i.imgur.com/SGNqJyt.gif" width="300" alt="AI Magic"/>
+<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/hero.gif" width="300" alt="AI Magic" />
+
+<!-- Local fallback image you uploaded -->
+<img src="https://raw.githubusercontent.com/sarvesh-kannan/sarvesh-kannan/main/assets/3911f8eb-8bf0-4775-a20b-e53a5e5e5ec3.png" width="500" alt="AI Developer Image" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -16,20 +19,15 @@
 
 <div align="left">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="AI Dev GIF"/>
+### 💡 About Me
 
-</div>
+- 🎓 B.Tech in AI @ **Amrita Vishwa Vidyapeetham**
+- 🧠 Building: **AI Tools, Intelligent Agents, Predictive Systems**
+- 🌐 Focus Areas: LLMs, Time Series, Vision, RAG, XAI, NLP, RL, Agentic AI
+- 💬 Ask me about: **AI/ML, Python, AI SaaS**
+- 📫 Email: [sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)
+- 📄 Resume: [View here](https://your-resume-link.com)
 
-
-* 🎓 B.Tech in AI at Amrita Vishwa Vidyapeetham
-* 🌐 I love building in **AI, Data Science, and ML Pipelines**
-* 🤖 Currently working on AI-powered tools, intelligent assistants, and predictive systems
-* 🧠 I explore: LLMs, Computer Vision, Time Series Forecasting, XAI, RAG Systems, NLP, Agentic AI, AI Agents.
-* 💬 Ask me about anything in **AI/ML, Python, or AI SaaS development**
-* 📫 Reach me: **[sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)**
-* 📄 My Resume: [View here](https://drive.google.com/file/d/1oeKJKtG4GpxVaG-GpALScZ-vhvM6-Qwh/view?usp=sharing)
-
----
 
 ### 💡 What I Like to Build
 
