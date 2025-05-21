@@ -47,11 +47,11 @@ I love creating things that blend intelligence with usability. You’ll find me 
 
 ### 🧰 Tech Stack
 
-**Languages:** Python, JavaScript
+**Languages:** Python, TypeScript, R
 **Frameworks:** PyTorch, TensorFlow, FastAPI, Flask, Streamlit, Vite.js
-**Libraries:** OpenCV, HuggingFace, Scikit-learn, LangChain, Pinecone, Pandas
+**Libraries:** OpenCV, HuggingFace, Scikit-learn, LangChain, Pinecone, Pandas, Tensorflow, Pandas, Numpy 
 **Tools:** Git, Docker, Supabase, VS Code, Power BI, Ollama
-**Databases:** PostgreSQL, MySQL, SQLite
+**Databases:** PostgreSQL, MySQL, SQLite, VectorDB 
 
 ---
 
@@ -63,18 +63,6 @@ I love creating things that blend intelligence with usability. You’ll find me 
   <a href="mailto:sarveshkannan30@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/apple-mail.png"></a>
   <a href="https://twitter.com/Sarvesh__K" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/twitter--v2.png"></a>
 </div>
-
----
-
-### ✍️ Blogs & Articles
-
-<!-- BLOG-POST-LIST:START -->
-
-* [How I Built an LLM-Powered Code Assistant That Runs Locally](https://dev.to/sarveshkannan/coming-soon)
-* [AI-Powered Fitness Plans in Python (with Gemini API)](https://dev.to/sarveshkannan/coming-soon)
-* [Time-Series Forecasting for Groundwater Management](https://dev.to/sarveshkannan/coming-soon)
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -101,8 +89,6 @@ I love creating things that blend intelligence with usability. You’ll find me 
 ### 🚀 Featured Projects
 
 <div align="center">
-
-Here's a cleaned-up, professional version of your section with properly working GitHub links and without unnecessary or broken image or markdown formatting. Each project is presented cleanly in a grid layout with meaningful descriptions:
 
 ---
 
