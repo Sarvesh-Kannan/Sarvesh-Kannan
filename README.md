@@ -102,54 +102,43 @@ I love creating things that blend intelligence with usability. You’ll find me 
 
 <div align="center">
 
+Here's a cleaned-up, professional version of your section with properly working GitHub links and without unnecessary or broken image or markdown formatting. Each project is presented cleanly in a grid layout with meaningful descriptions:
+
+---
+
+### 🚀 Featured Projects
+
 <table>
-<tr>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/Groundwater-TFT](https://github.com/Sarvesh-Kannan/PyUtilKit)" target="_blank">
-      <img src="https://media.giphy.com/media/8JW82ndaYfmNoYAekM/giphy.gif" width="150" height="100"/><br/>
-      <strong>Python Package</strong><br/>
-      <sub>A Python package available for everyone to use</sub>
-    </a>
-  </td>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/Wildlife-Safety-System](https://github.com/Sarvesh-Kannan/Cam-Trap)" target="_blank">
-      <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="150" height="100"/><br/>
-      <strong>Wildlife Safety System</strong><br/>
-      <sub>Animal detection + XAI + safety protocol generation</sub>
-    </a>
-  </td>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/LLM-Agent-RAG](https://github.com/Sarvesh-Kannan/SarvX)" target="_blank">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="100"/><br/>
-      <strong>LLM Agent + RAG</strong><br/>
-      <sub>Retrieval-augmented agent with local LLMs</sub>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/Gemini-Gym-AI](https://github.com/Sarvesh-Kannan/personal-trainer-ai)" target="_blank">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" height="100"/><br/>
-      <strong>Personal Trainer AI</strong><br/>
-      <sub>Workout + Diet plan generator using Gemini API</sub>
-    </a>
-  </td>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/HMM-BIO-NER](https://github.com/Sarvesh-Kannan/Co-Clone)" target="_blank">
-      <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="150" height="100"/><br/>
-      <strong>Co-Clone</strong><br/>
-      <sub>Local LLM-powered Co-Clone for real-time code assists</sub>
-    </a>
-  </td>
-  <td align="center" width="33%">
-    <a href="[https://github.com/sarvesh-kannan/SkillMap-AI](https://github.com/Sarvesh-Kannan/Sarvesh_Dashboard)" target="_blank">
-      <img src="https://media.giphy.com/media/kcK6j2IryyLxNmGJdN/giphy.gif" width="150" height="100"/><br/>
-      <strong>Dynamic Strategic HR Analytics Dashboard</strong><br/>
-      <sub>Strategic HR Analytics Dashboard with a Personalised Chat-Bot built using PowerBI and Python</sub>
-    </a>
-  </td>
-</tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/PyUtilKit" target="_blank">Python Package – PyUtilKit</a></strong><br/>
+      <p>A modular Python utility package for everyday data and ML tasks, open-source and accessible to all developers.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/Cam-Trap" target="_blank">Wildlife Safety System</a></strong><br/>
+      <p>Animal detection system enhanced with Explainable AI (XAI) and dynamic safety protocol generation using camera trap datasets.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/SarvX" target="_blank">LLM Agent + RAG</a></strong><br/>
+      <p>Retrieval-Augmented Generation (RAG) pipeline integrated with local LLM agents for fast and contextual querying.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/personal-trainer-ai" target="_blank">Personal Trainer AI</a></strong><br/>
+      <p>Gemini API-powered fitness assistant that generates personalized workout and diet plans based on user inputs and medical data.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/Co-Clone" target="_blank">Co-Clone</a></strong><br/>
+      <p>A local LLM-based code assistant designed for real-time coding support, context-aware completions, and productivity boosts.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <strong><a href="https://github.com/Sarvesh-Kannan/Sarvesh_Dashboard" target="_blank">Dynamic Strategic HR Analytics Dashboard</a></strong><br/>
+      <p>An end-to-end HR analytics dashboard with chatbot integration, developed using Power BI and Python for strategic insights.</p>
+    </td>
+  </tr>
 </table>
+
 
 </div>
 
