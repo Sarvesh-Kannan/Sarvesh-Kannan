@@ -24,9 +24,9 @@
 </a>
 
 * 🎓 B.Tech in AI at Amrita Vishwa Vidyapeetham
-* 🌐 I love building in **AI, Data Science, and Full Stack Dev**
+* 🌐 I love building in **AI, Data Science, and ML Pipelines**
 * 🤖 Currently working on AI-powered tools, intelligent assistants, and predictive systems
-* 🧠 I explore: LLMs, Computer Vision, Time Series Forecasting, XAI, RAG Systems
+* 🧠 I explore: LLMs, Computer Vision, Time Series Forecasting, XAI, RAG Systems, NLP, Agentic AI, AI Agents.
 * 💬 Ask me about anything in **AI/ML, Python, or AI SaaS development**
 * 📫 Reach me: **[sarveshkannan30@gmail.com](mailto:sarveshkannan30@gmail.com)**
 * 📄 My Resume: [View here](https://drive.google.com/file/d/1oeKJKtG4GpxVaG-GpALScZ-vhvM6-Qwh/view?usp=sharing)
@@ -37,11 +37,11 @@
 
 I love creating things that blend intelligence with usability. You’ll find me exploring domains like:
 
-* 🧠 **Artificial Intelligence** – LLMs, Transformers, Speech AI, Reinforcement Learning
-* 🌍 **Sustainability & Environment** – AI for Water Conservation, Wildlife Safety
-* 💊 **Healthcare Tech** – Medical Assistants, Cry Detection Systems
-* 📊 **Data Products** – Dashboards, Predictive Analytics, Business Intelligence
-* 🛠 **DevTools & Utilities** – Productivity APIs, Local AI Assistants, Python Packages
+* 🧠 **Artificial Intelligence** – LLMs, Transformers, Signal Processing, Reinforcement Learning, Natural Language Processing, Computer Vision.
+* 🌍 **Sustainability & Environment** – AI for Water Conservation, Wildlife Safety.
+* 💊 **Healthcare Tech** – Medical Assistants, Cry Detection Systems.
+* 📊 **Data Products** – Dashboards, Predictive Analytics, Business Intelligence, Personalised Chatbots.
+* 🛠 **DevTools & Utilities** – Productivity APIs, Local AI Assistants, Python Packages.
 
 ---
 
