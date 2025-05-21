@@ -1,27 +1,25 @@
 <div align="center">
 
-<h2> 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 <𝚂𝚊𝚛𝚟𝚎𝚜𝚑 𝙺𝚊𝚗𝚗𝚊𝚗 /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2>👋 Hey there, I'm <𝚂𝚊𝚛𝚟𝚎𝚜𝚑 𝙺𝚊𝚗𝚗𝚊𝚗 /> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="AI Chip Animation" width="700"/>
-</p>
-
-
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" alt="AI Chip Animation" width="700"/>
 
 <img src="https://i.imgur.com/SGNqJyt.gif" width="300" alt="AI Magic"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 </div>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvesh-kannan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
----
 
+<div align="left">
 
-<a align="right" target="_blank">
-  <img align="right" height="300" width="400" alt="AI Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="AI Dev GIF"/>
+
+</div>
+
 
 * 🎓 B.Tech in AI at Amrita Vishwa Vidyapeetham
 * 🌐 I love building in **AI, Data Science, and ML Pipelines**
