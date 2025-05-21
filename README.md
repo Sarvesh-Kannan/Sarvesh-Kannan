@@ -47,11 +47,11 @@ I love creating things that blend intelligence with usability. You’ll find me 
 
 ### 🧰 Tech Stack
 
-**Languages:** Python, TypeScript, R
-**Frameworks:** PyTorch, TensorFlow, FastAPI, Flask, Streamlit, Vite.js
-**Libraries:** OpenCV, HuggingFace, Scikit-learn, LangChain, Pinecone, Pandas, Tensorflow,Pandas, Numpy 
-**Tools:** Git, Docker, Supabase, VS Code, Power BI, Ollama
-**Databases:** PostgreSQL, MySQL, SQLite, VectorDB 
+* **Languages:** Python, TypeScript, R
+* **Frameworks:** PyTorch, TensorFlow, FastAPI, Flask, Streamlit, Vite.js
+* **Libraries:** OpenCV, HuggingFace, Scikit-learn, LangChain, Pinecone, Pandas, Tensorflow, Pandas, Numpy 
+* **Tools:** Git, Docker, Supabase, VS Code, Power BI, Ollama
+* **Databases:** PostgreSQL, MySQL, SQLite, VectorDB 
 
 ---
 
